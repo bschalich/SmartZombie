@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=image\ left\ right
+comment0.target=DumbZombie(java.lang.String,\ int,\ int)
+comment0.text=\ \n\ Checks\ for\ changes\ in\ direction\ and\ moves\ the\ main\ actor.\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=bludg
+comment10.target=void\ decrementHealthBLG_DZ(Bludgeoner)
+comment2.params=
+comment2.target=void\ AnimateLoad()
+comment3.params=
+comment3.target=void\ AnimateRight()
+comment4.params=
+comment4.target=void\ AnimateLeft()
+comment5.params=
+comment5.target=void\ move()
+comment5.text=\n\ Moves\ the\ actor\ with\ appropriate\ image.\ \ Checks\ for\ obstacles\ and\ adjusts\n\ the\ position\ of\ the\ actor\ accordingly.\n
+comment6.params=
+comment6.target=boolean\ getHit()
+comment7.params=
+comment7.target=void\ getDirection()
+comment7.text=\n\ Determines\ any\ changes\ in\ horizontal\ and\ vertical\ speeds\ for\ the\ actor.\n
+comment8.params=
+comment8.target=void\ killZombie()
+comment9.params=
+comment9.target=boolean\ getAboutFace()
+numComments=11

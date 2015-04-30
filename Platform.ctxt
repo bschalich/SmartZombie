@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=Platform(java.lang.String)
+comment1.params=
+comment1.target=int\ getWidth()
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int\ Y()
+comment4.params=
+comment4.target=int\ X()
+numComments=5

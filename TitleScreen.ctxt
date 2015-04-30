@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TitleScreen()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ TitleScreen.\n\ \n
+comment1.params=
+comment1.target=void\ stopSound()
+comment2.params=
+comment2.target=void\ stopped()
+numComments=3

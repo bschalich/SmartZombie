@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=image
+comment0.target=RangedAttacker(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=b
+comment10.target=void\ setShot(boolean)
+comment11.params=zombie
+comment11.target=void\ setGunImage(MCZombie)
+comment2.params=
+comment2.target=void\ move()
+comment2.text=private\ void\ AnimateLoad()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ int\ numImage\ \=\ 0;\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ while\ (numImage\ <\ numImagesRight)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ GreenfootImage\ addImage\ \=\ new\ GreenfootImage("Human"\ +\ numImage\ +\ ".png");\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (j\ \=\ 0;\ j\ <\ imageOffset;\ j++)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ imagesRight[i+j]\ \=\ addImage;\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ i\ +\=\ j;\n\ \ \ \ \ \ \ \ \ \ \ \ numImage++;\n\ \ \ \ \ \ \ \ }\ \ \ \ \n\ \ \ \ \ \ \ \ i\ \=\ 0;\n\ \ \ \ \ \ \ \ numImage\ \=\ 0;\n\ \ \ \ \ \ \ \ while\ (numImage\ <\ numImagesLeft)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ GreenfootImage\ addImage\ \=\ new\ GreenfootImage("Human"\ +\ numImage\ +\ ".png");\n\ \ \ \ \ \ \ \ \ \ \ \ for\ (j\ \=\ 0;\ j\ <\ imageOffset;\ j++)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ imagesLeft[i+j]\ \=\ addImage;\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ i\ +\=\ j;\n\ \ \ \ \ \ \ \ \ \ \ \ numImage++;\n\ \ \ \ \ \ \ \ }\n}
+comment3.params=
+comment3.target=MCZombie\ getMC()
+comment4.params=zombie
+comment4.target=void\ getShoot(MCZombie)
+comment5.params=zombie
+comment5.target=void\ shoot(MCZombie)
+comment6.params=
+comment6.target=void\ getHit()
+comment7.params=
+comment7.target=void\ fallRanged()
+comment8.params=
+comment8.target=void\ decrementHealth()
+comment9.params=zombie
+comment9.target=void\ attack(MCZombie)
+numComments=12
