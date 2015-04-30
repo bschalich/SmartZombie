@@ -7,6 +7,8 @@ The object of the game is to collect brains from enemies
 and reach the end of the level. Instructions on how to play are
 in the game.
 
+This game can be downloaded at https://drive.google.com/file/d/0Bz2wK0zv0MA5Q1FNODdvUFcwbDg/view?usp=sharing
+
 This game was made in four weeks with myself and two friends as part of my Interactive 
 Entertainment Engineering class. Our group won best game out of the eight other groups. 
 The game is made in Greenfoot, software that allows developers to make relatively 
